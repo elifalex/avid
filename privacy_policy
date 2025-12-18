@@ -1,0 +1,144 @@
+Privacy Policy
+
+Last updated: December 15, 2024
+
+1. Introduction
+
+Elif Naz Bozkurt ("we," "our," or "us") operates the Avid - Goal Tracker mobile
+application (the "App"). This Privacy Policy explains how we collect, use, disclose, and
+ safeguard your information when you use our App. This policy is compliant with the UK
+General Data Protection Regulation (UK GDPR).
+
+2. Information We Collect
+
+Personal Information:
+- Email address (when you create an account)
+- Display name (optional)
+- Authentication data (password, Apple Sign-In token)
+
+Usage Data:
+- Goals, tasks, and notes you create in the App
+- Completion dates and progress tracking data
+- Meal logs and calorie information
+- Daily routines and schedules
+- App usage statistics and preferences
+
+Device Information:
+- Device type and operating system
+- Unique device identifiers
+- App version and crash reports
+
+3. How We Use Your Information
+
+We use the collected information to:
+- Provide and maintain the App's functionality
+- Sync your data across devices
+- Process your subscription payments
+- Send service-related notifications
+- Improve and optimize the App
+- Provide customer support
+- Detect and prevent technical issues or fraudulent activity
+
+4. Legal Basis for Processing (UK GDPR)
+
+We process your personal data under the following legal bases:
+- Contract Performance: Processing is necessary to provide the App services you've
+requested
+- Legitimate Interests: To improve our services, prevent fraud, and ensure security
+- Consent: For marketing communications (which you can opt out of at any time)
+- Legal Obligation: To comply with applicable laws and regulations
+
+5. Data Storage and Security
+
+We use Firebase (Google Cloud) for data storage and authentication. Your data is:
+- Encrypted in transit using industry-standard SSL/TLS
+- Stored in secure, access-controlled data centers
+- Backed up regularly to prevent data loss
+- Subject to Firebase's security measures and compliance certifications
+
+6. Data Retention
+
+We retain your personal data for as long as:
+- Your account is active
+- Needed to provide you with our services
+- Required by law or for legitimate business purposes
+
+You can request deletion of your data at any time through the App settings or by
+contacting us.
+
+7. Third-Party Services
+
+We use the following third-party services that may collect information:
+- Firebase (Google): Authentication and database storage
+- RevenueCat: Subscription management and payment processing
+- Apple App Store / Google Play Store: Payment processing for subscriptions
+
+These services have their own privacy policies governing their use of your information.
+
+8. Your Rights (UK GDPR)
+
+Under UK GDPR, you have the right to:
+- Access: Request a copy of your personal data
+- Rectification: Correct inaccurate or incomplete data
+- Erasure: Request deletion of your data ("right to be forgotten")
+- Restriction: Limit how we process your data
+- Portability: Receive your data in a machine-readable format
+- Object: Object to processing based on legitimate interests
+- Withdraw Consent: Opt out of marketing communications at any time
+
+To exercise these rights, contact us at elexcreatives@gmail.com.
+
+9. Data Sharing and Disclosure
+
+We do not sell your personal data. We may share your information only in these
+circumstances:
+- With service providers who help us operate the App (Firebase, RevenueCat)
+- To comply with legal obligations or respond to lawful requests
+- To protect our rights, property, or safety, or that of our users
+- With your consent or at your direction
+
+10. International Data Transfers
+
+Your data may be transferred to and processed in countries outside the UK. We ensure
+appropriate safeguards are in place through:
+- Standard Contractual Clauses approved by the UK authorities
+- Adequacy decisions recognizing equivalent data protection standards
+- Service providers' compliance with international data protection frameworks
+
+11. Children's Privacy
+
+The App is not intended for children under 13 years of age. We do not knowingly collect
+personal information from children under 13. If you believe we have collected data from
+a child under 13, please contact us immediately.
+
+12. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any material
+changes by:
+- Posting the new Privacy Policy in the App
+- Updating the "Last updated" date
+- Sending you an email notification (for significant changes)
+
+Your continued use of the App after changes constitutes acceptance of the updated
+policy.
+
+13. Contact Information and Complaints
+
+If you have questions or concerns about this Privacy Policy or our data practices,
+contact us at:
+
+Email: elexcreatives@gmail.comDeveloper: Elif Naz Bozkurt
+
+If you believe we have not addressed your concerns adequately, you have the right to
+lodge a complaint with the UK Information Commissioner's Office (ICO) at ico.org.uk.
+
+14. Cookie Policy
+
+The App does not use cookies for tracking. We use local storage on your device to
+maintain your session and app preferences. This data is stored only on your device and
+is not transmitted to our servers except for synchronization purposes.
+
+---
+This HTML file is ready to be hosted and will be the live version users see when they
+tap "Privacy Policy" in your app settings. Both legal documents are now prepared for web
+ hosting!
